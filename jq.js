@@ -9,5 +9,6 @@ var JQ=function(){
     }
     var getDate=function(){
         return new Date();
+
     }
 }
