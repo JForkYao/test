@@ -3,4 +3,8 @@
  */
 var JQ=function(){
     jq=new JQ();
+
+    var add=function(a,b){
+        return a+b;
+    }
 }
