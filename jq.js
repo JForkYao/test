@@ -7,4 +7,7 @@ var JQ=function(){
     var add=function(a,b){
         return a+b;
     }
+    var getDate=function(){
+        return new Date();
+    }
 }
